@@ -2,6 +2,7 @@ require "jstree/rails/version"
 
 module Jstree
   module Rails
-    # Your code goes here...
+    class Engine < ::Rails::Engine
+    end
   end
 end

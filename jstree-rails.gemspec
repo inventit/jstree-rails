@@ -7,11 +7,11 @@ Gem::Specification.new do |spec|
   spec.name          = "jstree-rails"
   spec.version       = Jstree::Rails::VERSION
   spec.authors       = ["Toshiyuki HINA"]
-  spec.email         = ["toshiyuki.hina@gmail.com"]
+  spec.email         = ["thina@yourinventit.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Integrate jstree assets in your Rails asset pipeline}
+  spec.description   = %q{Wrap jstree and provide the assets as a gem}
+  spec.homepage      = "https://github.com/inventit/jstree-rails"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
