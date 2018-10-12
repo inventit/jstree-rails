@@ -1,5 +1,5 @@
 module Jstree
   module Rails
-    VERSION = "0.1.0"
+    VERSION = "3.3.6"
   end
 end
