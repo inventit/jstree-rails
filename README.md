@@ -24,9 +24,9 @@ In your `application.js` you will need to add this line:
 
     //= require jstree
    
-And in your `application.css` you will need to add this line:
+And in your `application.scss` you will need to add this line:
 
-    *= require jstree/default/style
+    @import "jstree";
 
 ## Contributing
 
